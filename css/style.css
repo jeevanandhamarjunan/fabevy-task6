@@ -1,0 +1,40 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+.container{
+           display:flex;
+           width: 1140px;
+           margin: 0 auto;
+}
+.first-cont img{
+                width:100%;
+                height: auto;
+}
+.cont{
+      padding:10px;
+} 
+
+.first-cont {
+       width: 33.33%;
+    text-align: center;
+    padding: 0 15px;
+}
+
+.first-cont h2{
+               font-family:'Raleway', sans-serif;
+}
+.first-cont >h4{
+               font-style:italic;
+}
+.first-cont p{
+              font-style: italic;
+              padding: 12px;
+              color:#ccc;
+}
+.first-cont a{
+              text-decoration:none;
+              padding: 1px;
+              color:#6a5e5e;
+ }
